@@ -19,16 +19,16 @@ This project implements an ETL (Extract, Transform, Load) pipeline that fetches 
    ```
    
 2. **Set up the virtual environment**: Set up the virtual environment: Create and activate a Python virtual environment.
-  ```bash
-  python -m venv venv
-  # On Windows
-  venv\Scripts\activate
-  # On macOS/Linux
-  source venv/bin/activate
-  ```
+   ```bash
+   python -m venv venv
+   # On Windows
+   venv\Scripts\activate
+   # On macOS/Linux
+   source venv/bin/activate
+   ```
 3. **Install dependencies**: Install the required packages using pip.
-  ```bash
-   pip install -r requirements.txt
+   ```bash
+    pip install -r requirements.txt
    ```
 
 ## Configuration
