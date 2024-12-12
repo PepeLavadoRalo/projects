@@ -1,7 +1,0 @@
-{
-    "url": "https://jsonplaceholder.typicode.com/users",
-    "missing_percentage": 0.1,
-    "transformed_data_csv": "users_transformed.csv",
-    "missing_data_csv": "users_missing.csv"
-  }
-  
