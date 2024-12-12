@@ -1,0 +1,26 @@
+# Entorno virtual
+venv/
+
+# Archivos de compilación de Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Archivos de configuración del editor
+.vscode/
+.idea/
+
+# Archivos de base de datos (si usas SQLite o similares)
+*.db
+*.sqlite3
+
+# Archivos de configuración de sistema (Mac/Linux)
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos temporales o de backup
+*.bak
+*.swp
