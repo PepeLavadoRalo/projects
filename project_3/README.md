@@ -88,7 +88,7 @@ cd projects/project_3
 ```bash
 pip install -r requirements.txt
 ```
-4.Run the main file to predict housing prices:
+4. Run the main file to predict housing prices:
 ```bash
 python main.py
 ```
