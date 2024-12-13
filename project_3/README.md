@@ -77,18 +77,18 @@ The model's performance was evaluated using the following metrics:
 
 ## Instructions to Run the Project
 1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/PepeLavadoRalo/projects.git
-   ```
+```bash
+git clone https://github.com/PepeLavadoRalo/projects.git
+```
 2. Navigate to the project directory:
-  ```bash
-  cd projects/project_3
-  ```
+```bash
+cd projects/project_3
+```
 3. Install the necessary dependencies:
-  ```bash
-  pip install -r requirements.txt
-  ```
+```bash
+pip install -r requirements.txt
+```
 4.Run the main file to predict housing prices:
-  ```bash
-  python main.py
-  ```
+```bash
+python main.py
+```
